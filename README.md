@@ -70,11 +70,6 @@ Ez a program egy klasszikus **Tic Tac Toe** játék (amőba), amelyet **Java Swi
 
 ---
 
-## 📷 Képernyőképek (opcionális)
-
-> Ide illeszthetsz képeket a játékról, ha később dokumentálod a látványt is.
-
----
 
 ## 📄 Licenc
 
